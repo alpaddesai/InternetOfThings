@@ -21,8 +21,8 @@
             <RowDefinition Height="294*"/>
             <RowDefinition Height="125*"/>
         </Grid.RowDefinitions>
-        <Label Content="Reference : New Advances in the Internet of Things, Ronald Yager 2018" HorizontalAlignment="Left" Margin="2,142,0,0" Grid.Row="1" VerticalAlignment="Top" Height="28" Width="478" FontSize="14" Grid.ColumnSpan="2"/>
-        <Label Content="Reference: Internet of Things, Rajkumar Buyya, Amir Dastjerdi, Kaufmann Morgan 2016" HorizontalAlignment="Left" Margin="1,164,0,-7" Grid.Row="1" VerticalAlignment="Top" Width="544" FontSize="14" Grid.ColumnSpan="2"/>
+        <Label Content="Reference : New Advances in the Internet of Things, Ronald Yager 2018" HorizontalAlignment="Left" Margin="8,124,0,0" Grid.Row="1" VerticalAlignment="Top" Height="28" Width="478" FontSize="14" Grid.ColumnSpan="2"/>
+        <Label Content="Reference: Internet of Things, Rajkumar Buyya, Amir Dastjerdi, Kaufmann Morgan 2016" HorizontalAlignment="Left" Margin="11,144,0,0" Grid.Row="1" VerticalAlignment="Top" Width="544" FontSize="14" Grid.ColumnSpan="2"/>
         <Image Grid.Column="1" HorizontalAlignment="Left" Height="285" Margin="587,347,-7,-9" Grid.RowSpan="2" VerticalAlignment="Top" Width="607" Source="Image1.png" RenderTransformOrigin="0.5,0.5">
             <Image.RenderTransform>
                 <TransformGroup>
