@@ -20,3 +20,4 @@ C:\Users\ADG\source\repos\InternetOfThings\InternetOfThings\obj\Debug\InternetOf
 C:\Users\ADG\source\repos\InternetOfThings\InternetOfThings\obj\Debug\InternetOfThings.pdb
 C:\Users\ADG\source\repos\InternetOfThings\InternetOfThings\obj\Debug\HealthCareSystemMap.g.cs
 C:\Users\ADG\source\repos\InternetOfThings\InternetOfThings\obj\Debug\HealthCareSystemMap.baml
+C:\Users\ADG\source\repos\InternetOfThings\InternetOfThings\obj\Debug\InternetOfThings.csprojAssemblyReference.cache

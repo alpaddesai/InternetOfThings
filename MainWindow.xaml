@@ -35,7 +35,6 @@
         </Image>
         <Image HorizontalAlignment="Left" Height="352" Margin="7,1,0,0" VerticalAlignment="Top" Width="635" Source="Image2.png" Grid.ColumnSpan="2"/>
         <Image Grid.Column="1" HorizontalAlignment="Left" Height="347" Margin="588,-4,-16,0" VerticalAlignment="Top" Width="615" Source="Internet of Things.png"/>
-        <Button Grid.ColumnSpan="2" Content="Button" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75"/>
         <Button x:Name="IoTData" Content="IoTDataand&#xD;&#xA;Management&#xD;&#xA;Analytics" HorizontalAlignment="Left" Margin="484,414,0,0" VerticalAlignment="Top" Width="99" Height="58" Click="IoTData_Click" Grid.Column="1" Grid.RowSpan="2"/>
         <Button x:Name="IoTApplications" Content="IoT Applications" HorizontalAlignment="Left" Margin="485,367,0,0" VerticalAlignment="Top" Width="94" Height="33" Click="IoTApplications_Click" Grid.Column="1"/>
         <Image HorizontalAlignment="Left" Height="218" Margin="10,356,0,0" Grid.RowSpan="2" VerticalAlignment="Top" Width="533" Source="Image5.png" Grid.ColumnSpan="2"/>

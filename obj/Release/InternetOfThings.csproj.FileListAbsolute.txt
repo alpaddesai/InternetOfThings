@@ -12,7 +12,6 @@ C:\Users\ADG\source\repos\InternetOfThings\InternetOfThings\obj\Release\Internet
 C:\Users\ADG\source\repos\InternetOfThings\InternetOfThings\obj\Release\InternetOfThings.csproj.CoreCompileInputs.cache
 C:\Users\ADG\source\repos\InternetOfThings\InternetOfThings\obj\Release\InternetOfThings.exe
 C:\Users\ADG\source\repos\InternetOfThings\InternetOfThings\obj\Release\InternetOfThings.pdb
-C:\Users\ADG\source\repos\InternetOfThings\InternetOfThings\obj\Release\InternetOfThings.csprojAssemblyReference.cache
 C:\Users\ADG\source\repos\InternetOfThings\InternetOfThings\obj\Release\HealthCareSystemMap.g.cs
 C:\Users\ADG\source\repos\InternetOfThings\InternetOfThings\obj\Release\IoTApplications.g.cs
 C:\Users\ADG\source\repos\InternetOfThings\InternetOfThings\obj\Release\IoTDataManagementAnalytics.g.cs
