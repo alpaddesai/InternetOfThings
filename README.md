@@ -8,11 +8,11 @@ The project focuses on providing an example of an IoT project in health care . F
 ## IoT Applications
 ![image](IoTApplications.png)
 
-## IoTDataManagementAnalytics
+## IoT Data Management Analytics
 ![image](IoTDataManagementAnalytics.png)
 
 ## RFID
 ![image](NewAdvances.png)
 
-## HealthCareSystem
+## HealthCare System
 ![image](HealthCareSystem.png)
