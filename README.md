@@ -14,5 +14,5 @@ The project focuses on providing an example of an IoT project in health care . F
 ## RFID
 ![image](NewAdvances.png)
 
-## HealthCare System
+## Health Care System
 ![image](HealthCareSystem.png)
