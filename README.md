@@ -16,3 +16,5 @@ The project focuses on providing an example of an IoT project in health care . F
 
 ## Health Care System
 ![image](HealthCareSystem.png)
+
+Advanced knowledge : https://github.com/alpaddesai/WirelessandMobileSystems , https://github.com/alpaddesai/BigDataDataScienceMachineLearning and https://github.com/alpaddesai/DataMining.
