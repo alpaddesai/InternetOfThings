@@ -12,6 +12,7 @@ The project focuses on providing an example of an IoT project in health care . F
 ![image](IoTDataManagementAnalytics.png)
 
 ## RFID
+### Team project - not a custom image.
 ![image](NewAdvances.png)
 
 ## Health Care System
