@@ -20,4 +20,6 @@ The project focuses on providing an example of an IoT project in health care . F
 
 ![image](USCopyrightCertificate.png)
 
+![image](Ethics.jpg)
+
 Advanced knowledge : https://github.com/alpaddesai/WirelessandMobileSystems , https://github.com/alpaddesai/BigDataDataScience, https://github.com/alpaddesai/DatabaseManagementDesign ,  https://github.com/alpaddesai/DataMining and https://github.com/alpaddesai/ObjectOrientedProgrammingCSharp.
